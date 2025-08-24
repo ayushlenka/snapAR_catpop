@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/a3b8194f-374e-4047-89a4-27bb849a1f6b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 1a4c8da0-c209-418f-8035-86bc5c966540
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 1a4c8da0-c209-418f-8035-86bc5c966540
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> ff62b0af-fc18-4d38-a032-0cb32e75741a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/ff62b0af-fc18-4d38-a032-0cb32e75741a>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 28c993ee-efdd-4355-bab7-f45f352984b9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    catImages: false
+    countdownText: false
+    endResultText: false
+    endScreenImage: false
+    howToImage: false
+    raccoonImages: false
+    scoreText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - howToImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      countdownText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      scoreText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      catImages: !<reference.Image[]>
+        []
+      raccoonImages: !<reference.Image[]>
+        []
+      endScreenImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      endResultText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
