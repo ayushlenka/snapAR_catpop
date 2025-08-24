@@ -22,7 +22,7 @@ Achieved **20k+ users in just 3 days** on Snapchat.
 
 ---
 
-## 📸 Demo
+## Demo
 [Play the Lens on Snapchat](https://t.snapchat.com/LZd9j6TH)
 
 
